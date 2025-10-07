@@ -1,6 +1,6 @@
 # 🛡️ Cybersecurity Projects Portfolio
 
-Welcome to my **Cybersecurity GitHub Portfolio** — a collection of hands-on projects demonstrating skills across network defense, ethical hacking, and incident response.
+Welcome to **Allen's Cybersecurity GitHub Portfolio** — a collection of hands-on projects demonstrating skills across network defense, ethical hacking, and incident response.
 
 Each project focuses on real-world tools and techniques used by cybersecurity professionals.
 
